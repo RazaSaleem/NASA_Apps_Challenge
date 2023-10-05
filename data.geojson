@@ -1,0 +1,601 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.2432647, 60.24324642]
+        },
+        "properties": {
+          "property": "CO2 Concentration",
+          "value": 200,
+          "boundingPoints": [
+            [22.2432632, 60.24324634],
+            [22.2432642, 60.24324634],
+            [22.2432632, 60.24324657],
+            [22.2432642, 60.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.1432647, 60.34324642]
+        },
+        "properties": {
+          "property": "Temperature",
+          "value": 300,
+          "boundingPoints": [
+            [22.1432632, 60.34324634],
+            [22.1432642, 60.34324634],
+            [22.1432632, 60.34324657],
+            [22.1432642, 60.34324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [23.2432647, 61.24324642]
+        },
+        "properties": {
+          "property": "Humidity",
+          "value": 150,
+          "boundingPoints": [
+            [23.2432632, 61.24324634],
+            [23.2432642, 61.24324634],
+            [23.2432632, 61.24324657],
+            [23.2432642, 61.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [24.3432647, 62.14324642]
+        },
+        "properties": {
+          "property": "Air Pressure",
+          "value": 250,
+          "boundingPoints": [
+            [24.3432632, 62.14324634],
+            [24.3432642, 62.14324634],
+            [24.3432632, 62.14324657],
+            [24.3432642, 62.14324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.2432647, 63.24324642]
+        },
+        "properties": {
+          "property": "Wind Speed",
+          "value": 180,
+          "boundingPoints": [
+            [25.2432632, 63.24324634],
+            [25.2432642, 63.24324634],
+            [25.2432632, 63.24324657],
+            [25.2432642, 63.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [26.1432647, 64.34324642]
+        },
+        "properties": {
+          "property": "UV Index",
+          "value": 7,
+          "boundingPoints": [
+            [26.1432632, 64.34324634],
+            [26.1432642, 64.34324634],
+            [26.1432632, 64.34324657],
+            [26.1432642, 64.34324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [27.2432647, 65.24324642]
+        },
+        "properties": {
+          "property": "Rainfall",
+          "value": 15,
+          "boundingPoints": [
+            [27.2432632, 65.24324634],
+            [27.2432642, 65.24324634],
+            [27.2432632, 65.24324657],
+            [27.2432642, 65.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [28.3432647, 66.14324642]
+        },
+        "properties": {
+          "property": "Pollution",
+          "value": 120,
+          "boundingPoints": [
+            [28.3432632, 66.14324634],
+            [28.3432642, 66.14324634],
+            [28.3432632, 66.14324657],
+            [28.3432642, 66.14324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [29.2432647, 67.24324642]
+        },
+        "properties": {
+          "property": "Oxygen Level",
+          "value": 18,
+          "boundingPoints": [
+            [29.2432632, 67.24324634],
+            [29.2432642, 67.24324634],
+            [29.2432632, 67.24324657],
+            [29.2432642, 67.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.1432647, 68.34324642]
+        },
+        "properties": {
+          "property": "Light Intensity",
+          "value": 800,
+          "boundingPoints": [
+            [30.1432632, 68.34324634],
+            [30.1432642, 68.34324634],
+            [30.1432632, 68.34324657],
+            [30.1432642, 68.34324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.2432647, 69.24324642]
+        },
+        "properties": {
+          "property": "Noise Level",
+          "value": 60,
+          "boundingPoints": [
+            [31.2432632, 69.24324634],
+            [31.2432642, 69.24324634],
+            [31.2432632, 69.24324657],
+            [31.2432642, 69.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.3432647, 70.14324642]
+        },
+        "properties": {
+          "property": "CO2 Concentration",
+          "value": 220,
+          "boundingPoints": [
+            [32.3432632, 70.14324634],
+            [32.3432642, 70.14324634],
+            [32.3432632, 70.14324657],
+            [32.3432642, 70.14324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.2432647, 71.24324642]
+        },
+        "properties": {
+          "property": "Temperature",
+          "value": 280,
+          "boundingPoints": [
+            [33.2432632, 71.24324634],
+            [33.2432642, 71.24324634],
+            [33.2432632, 71.24324657],
+            [33.2432642, 71.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.1432647, 72.34324642]
+        },
+        "properties": {
+          "property": "Humidity",
+          "value": 170,
+          "boundingPoints": [
+            [34.1432632, 72.34324634],
+            [34.1432642, 72.34324634],
+            [34.1432632, 72.34324657],
+            [34.1432642, 72.34324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.2432647, 73.24324642]
+        },
+        "properties": {
+          "property": "Air Pressure",
+          "value": 260,
+          "boundingPoints": [
+            [35.2432632, 73.24324634],
+            [35.2432642, 73.24324634],
+            [35.2432632, 73.24324657],
+            [35.2432642, 73.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [36.3432647, 74.14324642]
+        },
+        "properties": {
+          "property": "Wind Speed",
+          "value": 190,
+          "boundingPoints": [
+            [36.3432632, 74.14324634],
+            [36.3432642, 74.14324634],
+            [36.3432632, 74.34324657],
+            [36.3432642, 74.14324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [37.2432647, 75.24324642]
+        },
+        "properties": {
+          "property": "UV Index",
+          "value": 8,
+          "boundingPoints": [
+            [37.2432632, 75.24324634],
+            [37.2432642, 75.24324634],
+            [37.2432632, 75.24324657],
+            [37.2432642, 75.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [38.1432647, 76.34324642]
+        },
+        "properties": {
+          "property": "Rainfall",
+          "value": 12,
+          "boundingPoints": [
+            [38.1432632, 76.34324634],
+            [38.1432642, 76.34324634],
+            [38.1432632, 76.34324657],
+            [38.1432642, 76.34324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [39.2432647, 77.24324642]
+        },
+        "properties": {
+          "property": "Pollution",
+          "value": 130,
+          "boundingPoints": [
+            [39.2432632, 77.24324634],
+            [39.2432642, 77.24324634],
+            [39.2432632, 77.24324657],
+            [39.2432642, 77.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [40.3432647, 78.14324642]
+        },
+        "properties": {
+          "property": "Oxygen Level",
+          "value": 20,
+          "boundingPoints": [
+            [40.3432632, 78.14324634],
+            [40.3432642, 78.14324634],
+            [40.3432632, 78.14324657],
+            [40.3432642, 78.14324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [41.2432647, 79.24324642]
+        },
+        "properties": {
+          "property": "Light Intensity",
+          "value": 750,
+          "boundingPoints": [
+            [41.2432632, 79.24324634],
+            [41.2432642, 79.24324634],
+            [41.2432632, 79.24324657],
+            [41.2432642, 79.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [42.1432647, 80.34324642]
+        },
+        "properties": {
+          "property": "Noise Level",
+          "value": 65,
+          "boundingPoints": [
+            [42.1432632, 80.34324634],
+            [42.1432642, 80.34324634],
+            [42.1432632, 80.34324657],
+            [42.1432642, 80.34324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.2432647, 81.24324642]
+        },
+        "properties": {
+          "property": "CO2 Concentration",
+          "value": 240,
+          "boundingPoints": [
+            [43.2432632, 81.24324634],
+            [43.2432642, 81.24324634],
+            [43.2432632, 81.24324657],
+            [43.2432642, 81.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [44.3432647, 82.14324642]
+        },
+        "properties": {
+          "property": "Temperature",
+          "value": 290,
+          "boundingPoints": [
+            [44.3432632, 82.14324634],
+            [44.3432642, 82.14324634],
+            [44.3432632, 82.14324657],
+            [44.3432642, 82.14324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [45.2432647, 83.24324642]
+        },
+        "properties": {
+          "property": "Humidity",
+          "value": 160,
+          "boundingPoints": [
+            [45.2432632, 83.24324634],
+            [45.2432642, 83.24324634],
+            [45.2432632, 83.24324657],
+            [45.2432642, 83.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [46.3432647, 84.14324642]
+        },
+        "properties": {
+          "property": "Air Pressure",
+          "value": 270,
+          "boundingPoints": [
+            [46.3432632, 84.14324634],
+            [46.3432642, 84.14324634],
+            [46.3432632, 84.14324657],
+            [46.3432642, 84.14324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [47.2432647, 85.24324642]
+        },
+        "properties": {
+          "property": "Wind Speed",
+          "value": 200,
+          "boundingPoints": [
+            [47.2432632, 85.24324634],
+            [47.2432642, 85.24324634],
+            [47.2432632, 85.24324657],
+            [47.2432642, 85.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [48.1432647, 86.34324642]
+        },
+        "properties": {
+          "property": "UV Index",
+          "value": 6,
+          "boundingPoints": [
+            [48.1432632, 86.34324634],
+            [48.1432642, 86.34324634],
+            [48.1432632, 86.34324657],
+            [48.1432642, 86.34324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [49.2432647, 87.24324642]
+        },
+        "properties": {
+          "property": "Rainfall",
+          "value": 10,
+          "boundingPoints": [
+            [49.2432632, 87.24324634],
+            [49.2432642, 87.24324634],
+            [49.2432632, 87.24324657],
+            [49.2432642, 87.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [50.3432647, 88.14324642]
+        },
+        "properties": {
+          "property": "Pollution",
+          "value": 140,
+          "boundingPoints": [
+            [50.3432632, 88.14324634],
+            [50.3432642, 88.14324634],
+            [50.3432632, 88.14324657],
+            [50.3432642, 88.14324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [51.2432647, 89.24324642]
+        },
+        "properties": {
+          "property": "Oxygen Level",
+          "value": 22,
+          "boundingPoints": [
+            [51.2432632, 89.24324634],
+            [51.2432642, 89.24324634],
+            [51.2432632, 89.24324657],
+            [51.2432642, 89.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [52.1432647, 90.34324642]
+        },
+        "properties": {
+          "property": "Light Intensity",
+          "value": 720,
+          "boundingPoints": [
+            [52.1432632, 90.34324634],
+            [52.1432642, 90.34324634],
+            [52.1432632, 90.34324657],
+            [52.1432642, 90.34324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [53.2432647, 91.24324642]
+        },
+        "properties": {
+          "property": "Noise Level",
+          "value": 70,
+          "boundingPoints": [
+            [53.2432632, 91.24324634],
+            [53.2432642, 91.24324634],
+            [53.2432632, 91.24324657],
+            [53.2432642, 91.24324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.3432647, 92.14324642]
+        },
+        "properties": {
+          "property": "CO2 Concentration",
+          "value": 260,
+          "boundingPoints": [
+            [54.3432632, 92.14324634],
+            [54.3432642, 92.14324634],
+            [54.3432632, 92.14324657],
+            [54.3432642, 92.14324657]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [55.2432647, 93.24324642]
+        },
+        "properties": {
+          "property": "Temperature",
+          "value": 270,
+          "boundingPoints": [
+            [55.2432632, 93.24324634],
+            [55.2432642, 93.24324634],
+            [55.2432632, 93.24324657],
+            [55.2432642, 93.24324657]
+          ]
+        }
+      }
+    ]
+  }
+  
